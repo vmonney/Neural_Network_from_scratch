@@ -1,0 +1,11 @@
+# all files too big
+*.pdf
+*/fashion_mnist_images/
+*.png
+
+# python cache
+__pycache__/
+
+# models and params
+*.model
+*.parms
