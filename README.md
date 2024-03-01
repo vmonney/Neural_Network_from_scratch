@@ -12,6 +12,7 @@ Key features:
 - **Optimization Techniques:** Introduction to optimizers like SGD, Adam, and RMSprop, coded natively.
 - **Regularization and Dropout:** Integration of L1/L2 regularization and dropout techniques to combat overfitting.
 - **Real Dataset Application:** Application of the neural network to classify images from the Fashion MNIST dataset.
+- **Visualization of Weight Modifications:** New feature added to visualize the modifications of weights in each layer and their average per class, enhancing understanding of the model's learning process.
 
 ## Getting Started
 
