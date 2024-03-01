@@ -2,6 +2,7 @@
 *.pdf
 */fashion_mnist_images/
 *.png
+*.pkl
 
 # python cache
 __pycache__/
@@ -9,3 +10,8 @@ __pycache__/
 # models and params
 *.model
 *.parms
+
+
+/ Downloadable folders
+Visualizing_Neural_Networks/class_avgs
+Visualizing_Neural_Networks/layer_outs

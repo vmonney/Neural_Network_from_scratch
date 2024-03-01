@@ -8,6 +8,7 @@ dependencies:
   - matplotlib
   - pip
   - requests
+  - tqdm
   - pip:
     - nnfs
     - opencv-python
